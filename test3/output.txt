@@ -1,0 +1,16 @@
+void is keyword
+
+main is keyword
+
+int is keyword
+
+vkc is keyword
+
+cab is keyword
+
+kv is keyword
+
+cout is keyword
+
+c is keyword
+
