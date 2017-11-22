@@ -1,0 +1,47 @@
+program! (variables | prototype | function) {variables | prototype | function} variables! rewrite: type_people {; list: type_premium} of the record \ id {, id}
+
+type_variable | string | character | string | nothing | array [[vyr] {, [vyr]}] type_variable_exp0 [? v0: vyr0] vyr1 {(|||! ||| ^^ |! ^^) print1put2 {(&& |! &&) select2} pull2! {!} call3
+
+(<|> | <= |> = | = |! =) you can select 4 ({|| ~ || ^ | ~ ^) you can select [{& | ~ | | | ) typing the formula {(+ | -) typ8}
+([| * | |.)) select [[** | **.) select [+ | -] select [#p12]
+
+integer | real | true | false | string | (name) | name name | id {([list [list]) | [listbox]} list-list | prototype | proto-header_function
+
+function_name (list of forms): group_paramy {; group_paramy} group_param! [change | const] list: type_perm function! header_function {body_function} body_function! {variables | operators} operators! [operator] {; [operator ]}
+
+assignment operator | assignment | escape | input | output | conditional
+
+if [body_function] {has escaped {body_function}} [otherwise {body_function}] all the cycles! [id ::] (for the id from the {body_function} [completion {body_function}] |
+
+for id: = vyp, vp [, vyr] {body_function} [completion {body_function}] | while you {body_function} | repeat {body_function} as long as you are)
+name: = call
+
+go [out of the id] | continue [id] | return [ty] input! input (spelling)
+ 
+ 
+output! (output)
+
+Name {, name}
+
+Here, integer and real literals look like this (the corresponding regular definitions are written):
+
+integer! decimal | octal | binary | hexadecimal decimal! des_tifra ('? des_cifra) octal! 0 to eight-digit ('? eight-number)
+
+binary 0 (b | B) binary number ('binary number)
+
+hexadecimal! 0 (x | X) hexadecimal ('hex number)
+
+des_Chapter! 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+
+eight-digit! 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7
+
+binary number! 0 | 1
+0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | a | b | c | d | e | f | A | B | C | D | E | F
+
+real (integer_part) (fractional_part)? (E | e) (+ | -)? order
+
+integer_code! decimal
+
+fractional_party !.
+
+decimal order

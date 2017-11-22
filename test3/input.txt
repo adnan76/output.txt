@@ -1,0 +1,8 @@
+void main ()
+{
+ int v,k,c;
+ c=a+b;
+k<v;
+   cout <<c<<;
+
+}
